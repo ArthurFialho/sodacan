@@ -92,6 +92,6 @@
 }
 
 #darkmode-id:checked + span::before {
-  background-image: url("/img/moon.png");
+  background-image: url("../moon.png");
   left: 45%;
 }
